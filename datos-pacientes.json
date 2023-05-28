@@ -1,0 +1,20 @@
+[
+    {
+        "nombrePaciente": "Eli",
+        "Apellidopaciente": "Santodomingo",
+        "cedulaDuenio": 1087965,
+        "edad": 35,
+        "telefono": 365487643,
+        "especialidad": "Medicina General",
+        "doctor": "wilson"
+    },
+    {
+        "nombrePaciente": "Stephen",
+        "nombreDuenio": "Cardenas",
+        "cedulaDuenio": 23876456,
+        "edadMascota": 22,
+        "telefonoDuenio": 300876544,
+        "especialidad": "Radiologia",
+        "doctor": "Teresa"
+    }
+]
